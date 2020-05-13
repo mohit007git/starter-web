@@ -3,11 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    VT Team
 
 # THANKS
 
+<<<<<<< HEAD
     Thanks to all my students !
+=======
+    Thanks to all my students! For attending the session.
+>>>>>>> myfeature
 
 # TECHNOLOGY COLOPHON
 
